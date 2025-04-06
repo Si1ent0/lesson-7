@@ -1,0 +1,7 @@
+selene == 2.0.0rc9
+selenium
+requests
+pytest
+pypdf
+openpyxl
+xlrd
